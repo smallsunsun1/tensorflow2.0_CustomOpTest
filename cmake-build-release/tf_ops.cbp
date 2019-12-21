@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tf_ops"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a">
+				<Option output="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sunjiahe/miniconda3/envs/tf2.0/lib/python3.6/site-packages/tensorflow_core/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 a"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a/fast">
+				<Option output="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sunjiahe/miniconda3/envs/tf2.0/lib/python3.6/site-packages/tensorflow_core/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 a/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ops">
+				<Option output="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/libops.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sunjiahe/miniconda3/envs/tf2.0/lib/python3.6/site-packages/tensorflow_core/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 ops"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ops/fast">
+				<Option output="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/libops.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sunjiahe/miniconda3/envs/tf2.0/lib/python3.6/site-packages/tensorflow_core/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 ops/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sunjiahe/CLionProjects/tf_ops/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/main.cpp">
+			<Option target="a"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/custom_dataset_op.cpp">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/custom_dataset_op.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/dataset_utils.cpp">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/dataset_utils.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/deform_conv.cpp">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/deform_conv.cu.cc">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/deform_conv.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/image_threshold_op.cc">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/my_reader_dataset_op.cc">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/name_utils.cpp">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/name_utils.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/prefetch_autotuner.cpp">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/prefetch_autotuner.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/prefetch_dataset_op.cpp">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/prefetch_dataset_op.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/relu.cpp">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/relu.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/repeat_dataset_op.cpp">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/repeat_dataset_op.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/skip_gram_kernels.cc">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/stats_utils.cpp">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/stats_utils.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/to_zeros.cc">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/upsample.cc">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/reader/upsample.h">
+			<Option target="ops"/>
+		</Unit>
+		<Unit filename="/Users/sunjiahe/CLionProjects/tf_ops/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
